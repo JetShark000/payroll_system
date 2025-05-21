@@ -4,7 +4,7 @@ Author: JetShark000
 
 ## Overview
 
-This is a web-based Payroll System built with PHP and MySQL, designed to help organizations manage employee payroll, generate payslips, and handle payroll records securely. The system supports both admin and employee roles, with features for payroll calculation, payslip generation (PDF), and user management.
+This is a web-based Payroll System built with PHP, MySQL and CSS using bootstrap, designed to help organisations manage employee payroll, generate payslips, and handle payroll records securely. The system supports both admin and employee roles, with features for payroll calculation, payslip generation (PDF), and user management.
 
 ---
 
